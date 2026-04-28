@@ -1,0 +1,7 @@
+bayangkan kamu sebagai mahasiswa semester 4 yang disuruh untuk mengerjakan soal ini
+
+adapun permasalahan yang di hadapi di soal ini adalah tentang kesulitan dalam pengantaran paket ke rumah/kampung dengan memperhatikan beratnya barang yang ingin di kirimkan, lalu ucuk memberitahu bahwa adanya prosur tentang jasa pengiriman yang sistemnya transparan dan perhitungannya secara otomatis
+
+sekarang kerjakan menggunakan bahasa library java.util.scanner dengan memperhatikan format atau batasan-batasan yang ada pada soal dan sesuaikan dengan input dan output yang diharapkan pada soal dengan keluaran pertamanya dimulai dari kota tujuan, berat paket, total berat, total ongkos kirim, dan informasi yang di peroleh
+
+untuk keterbatasan hal negatif, standar kualitas keamanan, tidak perlu ada yang di hindari untuk ruang lingkupnya itu simulai dari kampus sampai ke kota tujuan buatkan langkah-langkah yang jelas untuk hasil yang tepat

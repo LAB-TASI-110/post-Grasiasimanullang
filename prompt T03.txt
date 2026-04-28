@@ -1,0 +1,7 @@
+dari soal ini kita di minta untuk membuatkan code untuk membuat program yang mendukung siste operasional kafetaria IT Del yang dimana itu adalah tempat untuk memesan makanan berupa (gorengan, salad, burger, dll) dan minuman seperti (kopi dan teh) untuk seluruh civitas, tugas kita sekarang membuatkan program yang akan menampilkan jenis menu-menu yang tersedia, menentukan harganya, total pesanan, dan lainnya untuk proses jual beli dapat berlangsung dengan lancar.
+
+kita akan membuatkan code menggunakan bahasa/library java.util.scanner, sistem manajemennya berbasis POS (Poin of Sale)
+
+untuk inputannya sesuai dengan jenis kebutuhannya yaitu nama pemesan, jenis makana atau minuman yang di pesan, total pesanan, serta total pesanan untuk keluran atau outputnya sesuaikan dengan inputnya
+
+untuk batasannya gunakan tanda "|", lingkup pengerjannya yaitu di kampus IT Del, pada akhir program kamu bisa menggunakan "---" untuk memberhentikan programnya

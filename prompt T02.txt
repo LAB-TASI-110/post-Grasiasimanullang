@@ -1,0 +1,13 @@
+sekarang pada T02 kita di minta untuk menyelesaikan permasalahan untuk menentukan total stok hanya untuk barang yang di minta saja pada soal sudah diberikan pola untuk penyimpanan stok barangnya dengan pengelompokan sesuai jenisnya.
+
+sekarang kerjakan menggunakan bahasa library java.util.scanner dengan memperhatikan format atau pun batasan-batasan pada soal seperti yang sudah diberitahukan pada inputnya mulai dari 
+
+1.jumlah total data (N)
+
+2. deret stok (s1,s2, ...., sN)
+
+3. kode kategori barang
+
+untuk keterbatasan hal negatif tidak perlu ada atau standar kualitasnya kemanan sesuaikan saja dengan soal, untuk ruang lingkupnya pun tidak ada yang di jelaskan hanya dikatakan saja disimpan dalam sebuah rak gudang
+
+berikat output yang sesuai dengan masukan atau input yang sudah di berikan 
